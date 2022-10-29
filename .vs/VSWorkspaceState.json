@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FProject-App",
-    "\\FProject-App\\src",
-    "\\FProject-App\\src\\app",
-    "\\FProject-App\\src\\app\\header",
-    "\\FProject-App\\src\\app\\recipes",
-    "\\FProject-App\\src\\app\\recipes\\recipes-list",
-    "\\FProject-App\\src\\app\\shopping-list"
+    "\\first-projrct",
+    "\\first-projrct\\src",
+    "\\first-projrct\\src\\app",
+    "\\first-projrct\\src\\app\\cockpit",
+    "\\first-projrct\\src\\app\\server-element"
   ],
-  "SelectedNode": "\\FProject-App\\src\\app\\header\\header.component.ts",
+  "SelectedNode": "\\first-projrct\\src\\app\\app.component.ts",
   "PreviewInSolutionExplorer": false
 }
